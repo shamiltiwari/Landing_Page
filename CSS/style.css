@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* color: white; */
+}
+
+.navbar{
+    display: flex;
+    padding: 20px;
+    background-color: #1F2937;
+    color: aliceblue;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-menu{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.login,
+.About{
+    margin-right: 20px;
+}
+
