@@ -58,3 +58,22 @@ img{
     width: 30vw;
     height: auto;
 }
+
+.section{
+    text-align: center;
+}
+
+.grid-container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.grid-items{
+    border: 2px solid blue;
+    align-items: center;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+    
