@@ -10,12 +10,10 @@
     padding: 20px;
     background-color: #1F2937;
     color: aliceblue;
-}
-
-.navbar{
-    display: flex;
     justify-content: space-around;
 }
+
+
 
 .nav-menu{
     display: flex;
@@ -27,3 +25,36 @@
     margin-right: 20px;
 }
 
+.hero-main{
+    background-color: #1F2937;
+    color: aliceblue;
+}
+
+.hero{
+    display: flex;
+    padding: 150px;
+    align-items: center;
+   
+}
+
+.hero-content h3{
+   font-size: 54px;
+   font-weight: bold;
+}
+
+.hero-content p{
+   font-size: 20px;
+}
+
+.btn-contact{
+    font-size: 20px;
+    margin-top: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: red;
+}
+
+img{
+    width: 30vw;
+    height: auto;
+}
