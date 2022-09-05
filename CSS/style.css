@@ -101,4 +101,34 @@ img{
     font-style: italic;
     
 }
-    
+
+.reminder{
+    display: flex;
+    border: 2px solid green;
+    background-color: blue;
+    margin: 10vw;
+    margin-top: 5vw;
+    height: 7rem;
+    gap: 250px;
+    align-items: center;
+    color: white;
+}
+
+.reminder-text{
+    padding-left: 2rem;
+}
+.reminder-text h3{
+    font-size: 18px;
+}
+
+footer{
+    background-color: #1F2937;
+    color: white;
+    height: 80px;
+}
+
+.footer{
+    text-align: center;
+    padding: 30px;
+}
+
